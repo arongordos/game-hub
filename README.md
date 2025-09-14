@@ -9,3 +9,5 @@ GameHub is a simple web application that allows users to search for movies and f
 - React
 - TailwindCSS
 - React Router
+
+Live preview: https://game-hub-psi-blue.vercel.app
